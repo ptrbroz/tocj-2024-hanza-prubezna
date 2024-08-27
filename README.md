@@ -1,3 +1,4 @@
+# Průběžná deskovka z Tábora OČJ 2024
 
 Skript k vygenerování tajné sekvence produkce je ve složce produkce, v podsložce je pak sekvence použitá na TOČJ 2024.
 
