@@ -4,7 +4,7 @@ Skript k vygenerování tajné sekvence produkce je ve složce produkce, v podsl
 
 ## Další potřebné komponenty:
 
-* Karty na poker, 12 balíčků
+* Karty na poker, 12 balíčků (určitě by stačilo méně kdyby byl člověk ochoten recyklovat, s tímhle počtem lze nabalíčkovat produkce na jednotlivé dny dopředu)
 * UltraPro Platinum A4 listy do alba, 36 ks
 * Šanon, 4ks
 * Nástěnka korková
